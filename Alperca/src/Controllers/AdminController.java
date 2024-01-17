@@ -16,4 +16,9 @@ public class AdminController {
         double precoBarato=0;
         return precoBarato;
     }
+
+
+    public double jogadorMaisCaro(){
+        return 1000;
+    }
 }
