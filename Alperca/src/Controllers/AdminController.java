@@ -7,7 +7,13 @@ public class AdminController {
 
         double equipa =0;
         // ...
-        
+
         return equipa;
+    }
+
+
+    public double jogadorMaisBarato(){
+        double precoBarato=0;
+        return precoBarato;
     }
 }
