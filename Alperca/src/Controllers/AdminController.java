@@ -9,6 +9,7 @@ public class AdminController {
         // ...
 
         return equipa;
+        //...
     }
 
 
